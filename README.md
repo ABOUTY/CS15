@@ -26,3 +26,6 @@ Energizer: +100 points
 Ghost: +200 points
 Winning and Losing
 The game ends either when all of the dots and energizers are eaten or when Pacman loses all of his lives. When the game ends, the ghosts and Pacman should all stop moving, and keyboard input should be disabled.
+
+
+![image](https://github.com/user-attachments/assets/a4b32b00-9acf-49cc-9bd6-97659e6afe2a)
