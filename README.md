@@ -1,4 +1,4 @@
-# CS15
+# PACMAN
 https://hackmd.io/@Fall2024-CS15/HJ5yLrAs0
 ## Functionality
 Overview
